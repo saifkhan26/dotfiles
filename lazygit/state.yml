@@ -1,7 +1,7 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/msk/.config/nvim
 - /home/msk/.config
+- /home/msk/.config/nvim
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false
